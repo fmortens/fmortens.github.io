@@ -11,6 +11,6 @@ FamClock has been released!
 
 My first app for tvOS has been approved and will appear shortly in the app store.
 
-[Check it out!](/famclock)
+[Check it out!](/famClock)
 
 -F
