@@ -1,0 +1,24 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+body {
+    background-color: rgba(255, 94, 0, 0.01);
+}
+
+.site-title {
+    font-size: 400%;
+}
+
+a, a:visited {
+    color: orange !important;
+    font-weight: bold !important;
+}
+
+a:hover {
+    color: black !important;
+    text-decoration: none !important;
+}
+
