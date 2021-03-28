@@ -56,7 +56,8 @@ include:
 #   - vendor/ruby/
 
 defaults:
-  - scope:
+  -
+    scope:
       path: "assets/img"
     values:
       image: true
