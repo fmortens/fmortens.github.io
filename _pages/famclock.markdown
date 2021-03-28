@@ -6,7 +6,7 @@ permalink: /famClock/
 
 ![Screenshot](/assets/img/famclock.png)
 
-This is a page about my tvOS app FamClock. A very simple time keeping app.
+FamClock is a (for now) very simple time keeping app.
 
 If you have any questions, feel free to mail me.
 
